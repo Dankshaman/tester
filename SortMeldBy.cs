@@ -1,0 +1,20 @@
+﻿using System;
+
+// Token: 0x02000141 RID: 321
+public enum SortMeldBy
+{
+	// Token: 0x04000A80 RID: 2688
+	SORT_NONE,
+	// Token: 0x04000A81 RID: 2689
+	SORT_BY_ADDED,
+	// Token: 0x04000A82 RID: 2690
+	SORT_BY_VALUE,
+	// Token: 0x04000A83 RID: 2691
+	SORT_BY_NAME,
+	// Token: 0x04000A84 RID: 2692
+	SORT_BY_DESC,
+	// Token: 0x04000A85 RID: 2693
+	SORT_BY_GM,
+	// Token: 0x04000A86 RID: 2694
+	SORT_BY_MEMO
+}

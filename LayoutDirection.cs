@@ -1,0 +1,22 @@
+﻿using System;
+
+// Token: 0x0200013F RID: 319
+public enum LayoutDirection
+{
+	// Token: 0x04000A72 RID: 2674
+	RIGHT_THEN_DOWN,
+	// Token: 0x04000A73 RID: 2675
+	DOWN_THEN_RIGHT,
+	// Token: 0x04000A74 RID: 2676
+	LEFT_THEN_DOWN,
+	// Token: 0x04000A75 RID: 2677
+	DOWN_THEN_LEFT,
+	// Token: 0x04000A76 RID: 2678
+	RIGHT_THEN_UP,
+	// Token: 0x04000A77 RID: 2679
+	UP_THEN_RIGHT,
+	// Token: 0x04000A78 RID: 2680
+	LEFT_THEN_UP,
+	// Token: 0x04000A79 RID: 2681
+	UP_THEN_LEFT
+}

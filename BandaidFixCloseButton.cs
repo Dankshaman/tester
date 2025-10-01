@@ -1,0 +1,7 @@
+﻿using System;
+using UnityEngine;
+
+// Token: 0x02000264 RID: 612
+public class BandaidFixCloseButton : MonoBehaviour
+{
+}
